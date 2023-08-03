@@ -1,0 +1,15 @@
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\bin\Debug\net6.0\Multithreading_vs_Asynchronous.exe
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\bin\Debug\net6.0\Multithreading_vs_Asynchronous.deps.json
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\bin\Debug\net6.0\Multithreading_vs_Asynchronous.runtimeconfig.json
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\bin\Debug\net6.0\Multithreading_vs_Asynchronous.dll
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\bin\Debug\net6.0\Multithreading_vs_Asynchronous.pdb
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.csproj.AssemblyReference.cache
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.AssemblyInfoInputs.cache
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.AssemblyInfo.cs
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.csproj.CoreCompileInputs.cache
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.dll
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\refint\Multithreading_vs_Asynchronous.dll
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.pdb
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\Multithreading_vs_Asynchronous.genruntimeconfig.cache
+c:\Users\rasrivas\source\repos\poc.dotnet\Multithreading_vs_Asynchronous\obj\Debug\net6.0\ref\Multithreading_vs_Asynchronous.dll
