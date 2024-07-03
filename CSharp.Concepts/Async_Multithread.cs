@@ -1,10 +1,10 @@
-﻿namespace Multithreading_vs_Asynchronous
+namespace CSharp.Concepts;
+
+public class Async_Multithread
 {
-	internal class Program
-	{
-		static void Main(string[] args)
-		{
-			Console.WriteLine("Select 1 for Multithreading and 2 for Async");
+    public void Execute()
+    {
+        	Console.WriteLine("Select 1 for Multithreading and 2 for Async");
 			int opType = Convert.ToInt16(Console.ReadLine());
 
 			Console.WriteLine("Starting with Id: " + Thread.CurrentThread.ManagedThreadId);
@@ -16,10 +16,8 @@
 
 			Console.WriteLine("Completed with Id: " + Thread.CurrentThread.ManagedThreadId);
 			Console.ReadLine();
-
-		}
-
-		private static void SimulateMultiThreading()
+    }
+    		private static void SimulateMultiThreading()
 		{
 			Thread t1 = new Thread(new ThreadStart(DownloadImage));
 			Thread t2 = new Thread(new ThreadStart(CompressImage));
@@ -90,7 +88,6 @@
 		{
 			Console.WriteLine("Downloading with Id: " + Thread.CurrentThread.ManagedThreadId);
 			await Task.Delay(1000);
-			Console.WriteLine("Downloaded with Id: " + Thread.CurrentThread.ManagedThreadId);
+			Console.WriteLine("Downloaded with Id: " + Thread.CurrentThread.ManagedThreadId); 
 		}
-	}
 }

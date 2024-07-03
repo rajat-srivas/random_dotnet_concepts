@@ -1,0 +1,15 @@
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.AssemblyInfoInputs.cache
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.AssemblyInfo.cs
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.csproj.CoreCompileInputs.cache
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.sourcelink.json
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/bin/Debug/net6.0/CSharp.Concepts
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/bin/Debug/net6.0/CSharp.Concepts.deps.json
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/bin/Debug/net6.0/CSharp.Concepts.runtimeconfig.json
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/bin/Debug/net6.0/CSharp.Concepts.dll
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/bin/Debug/net6.0/CSharp.Concepts.pdb
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.dll
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/refint/CSharp.Concepts.dll
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.pdb
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/CSharp.Concepts.genruntimeconfig.cache
+/Users/rajatsrivastava/dotnet/random_dotnet_concepts/CSharp.Concepts/obj/Debug/net6.0/ref/CSharp.Concepts.dll

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rasrivas\\source\\repos\\poc.dotnet\\Multithreading_vs_Asynchronous\\Multithreading_vs_Asynchronous.csproj": {}
+    "/Users/rajatsrivastava/dotnet/random_dotnet_concepts/Multithreading_vs_Asynchronous/Multithreading_vs_Asynchronous.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rasrivas\\source\\repos\\poc.dotnet\\Multithreading_vs_Asynchronous\\Multithreading_vs_Asynchronous.csproj": {
+    "/Users/rajatsrivastava/dotnet/random_dotnet_concepts/Multithreading_vs_Asynchronous/Multithreading_vs_Asynchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rasrivas\\source\\repos\\poc.dotnet\\Multithreading_vs_Asynchronous\\Multithreading_vs_Asynchronous.csproj",
+        "projectUniqueName": "/Users/rajatsrivastava/dotnet/random_dotnet_concepts/Multithreading_vs_Asynchronous/Multithreading_vs_Asynchronous.csproj",
         "projectName": "Multithreading_vs_Asynchronous",
-        "projectPath": "c:\\Users\\rasrivas\\source\\repos\\poc.dotnet\\Multithreading_vs_Asynchronous\\Multithreading_vs_Asynchronous.csproj",
-        "packagesPath": "C:\\Users\\rasrivas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rasrivas\\source\\repos\\poc.dotnet\\Multithreading_vs_Asynchronous\\obj\\",
+        "projectPath": "/Users/rajatsrivastava/dotnet/random_dotnet_concepts/Multithreading_vs_Asynchronous/Multithreading_vs_Asynchronous.csproj",
+        "packagesPath": "/Users/rajatsrivastava/.nuget/packages/",
+        "outputPath": "/Users/rajatsrivastava/dotnet/random_dotnet_concepts/Multithreading_vs_Asynchronous/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rasrivas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rajatsrivastava/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
         }
       }
     }
